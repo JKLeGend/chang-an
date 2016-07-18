@@ -62,13 +62,10 @@ body {
 					}
 				}
 				.slide{
-					//box-sizing: border-box;
-					//width: 100%;
 					background-color: #EEF8F9;
 					color: #00cc99;
 					.tab{
 						display: inline-block;
-						//box-sizing: border-box;
 						width: 25%;
 						float: left;
 						border-right: 1px solid #E6F0F1;
@@ -98,8 +95,8 @@ body {
 				.icon{
 					display: inline-block;
 					float: left;
-					width: 2%;
-					margin: .5% 2% 0 1%;
+					width: 3%;
+					margin: .5% 1% 0 1%;
 					font-size: 25px;
 				}
 				.desc{
